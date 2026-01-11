@@ -26,5 +26,20 @@ as a reduced but biologically meaningful subset.
 - Sample metadata
 - Log2 fold change results
 - Publication-ready plots
+- 
+### Differential Expression Visualization
+
+Due to the absence of biological replicates, formal differential expression
+testing using DESeq2 could not be completed. As a result, statistical log2 fold
+change estimates and volcano plots were not generated, in order to avoid
+misleading interpretations.
+
+Instead, exploratory analyses were performed, including:
+
+- Sample-to-sample distance heatmap
+- Mean–expression (MA-style) plot
+
+These visualizations were used to assess global expression patterns and data
+structure rather than infer statistical significance.
 
 This project demonstrates resilience, problem-solving, and practical RNA-seq analysis skills.
