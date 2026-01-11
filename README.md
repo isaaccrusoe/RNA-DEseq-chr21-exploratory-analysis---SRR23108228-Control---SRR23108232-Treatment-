@@ -1,3 +1,9 @@
+
+<img width="613" height="304" alt="HeatMap" src="https://github.com/user-attachments/assets/7c103d84-8942-4124-841d-3443247600aa" />
+
+
+
+
 # RNA-Seq Differential Expression Analysis (Chr21 Subset)
 
 This project represents my first complete end-to-end RNA-seq bioinformatics workflow,
