@@ -1,7 +1,7 @@
 # Methods
 
 ## Data Acquisition
-Public RNA-seq datasets were obtained from NCBI SRA. Due to hardware limitations,
+Public RNA-seq datasets were obtained from NCBI SRR23108228 (control) and SRR23108232 (Treated). Due to hardware limitations,
 analysis was restricted to chromosome 21 to allow full pipeline execution.
 
 ## Quality Control and Trimming
